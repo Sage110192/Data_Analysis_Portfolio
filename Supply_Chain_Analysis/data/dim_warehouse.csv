@@ -1,0 +1,4 @@
+warehouse_id,warehouse_name,warehouse_type,region,address,warehouse_status
+1,华东RDC,RDC,华东,上海市嘉定区,1
+2,华南RDC,RDC,华南,广州市黄埔区,1
+3,华北RDC,RDC,华北,天津市武清区,1
