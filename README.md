@@ -34,7 +34,8 @@
 
 🔗 [查看项目](./projects/项目文件夹名/) 
 📊 [在线看板]Tableau链接：https://public.tableau.com/views/SKU_17885907372900/1-?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-![Uploading 仪表盘1-全国库存总舱.png…]()
+
+<img width="1432" height="821" alt="仪表盘1-全国库存总舱" src="https://github.com/user-attachments/assets/a9b2dfe7-1d0d-4eb2-93ac-ec36a1046c50" />
 重点一览：
 1.全国大仓库存周转效率&平均库龄；
 2.右上快速看出不同畅销程度&健康度SKU占比，对大仓畅销、滞销、正常SKU健康度情况一眼了解；
