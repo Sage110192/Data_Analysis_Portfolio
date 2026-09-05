@@ -37,13 +37,15 @@
 📊 [在线看板]Tableau链接：https://public.tableau.com/views/SKU_17885907372900/1-?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 
-<img width="1432" height="821" alt="仪表盘1-全国库存总舱" src="https://github.com/user-attachments/assets/a9b2dfe7-1d0d-4eb2-93ac-ec36a1046c50" />
+<img width="1432" height="821" alt="仪表盘1-全国库存总舱" src="https://github.com/user-attachments/assets/68f52f9a-1e02-4ab9-a921-3ebce9d7e2b3" />
+
 **重点一览**
 - 1.全国大仓库存周转效率&平均库龄；
 - 2.右上快速看出不同畅销程度&健康度SKU占比，对大仓畅销、滞销、正常SKU健康度情况一眼了解；
 - 3.了解当下核心项目进展。
 
-<img width="1431" height="829" alt="仪表盘2-SKU健康度 补货优先级 补货建议" src="https://github.com/user-attachments/assets/46120bbb-2c9f-497f-a556-3cd7e9a9807d" />
+<img width="1431" height="829" alt="仪表盘2-SKU健康度 补货优先级 补货建议" src="https://github.com/user-attachments/assets/a28564d8-9a5f-4956-b9b1-77498f7d8c23" />
+
 重点一览：
 1.左侧根据畅销程度优先级，优先查看畅销品类补货优先级高的SKU；
 2.右侧颜色区分补货优先级，大小区分补货建议量；
