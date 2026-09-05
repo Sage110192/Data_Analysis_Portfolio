@@ -32,14 +32,16 @@
 - 3.明确每一业务场景闭环策略：（1）对紧急缺货的SKU，灵活敏捷推进补货策略；（2）对滞销产品推进至运营部门，确认下架/促销/下沉至三四线城市市场等业务策略，形成业务闭环策略并跟进落地。
 - **成果**：预估库存周转效率将提升 *%，滞销品库存成本将节省 *%（模拟数据）
 
+
 🔗 [查看项目](./projects/项目文件夹名/) 
 📊 [在线看板]Tableau链接：https://public.tableau.com/views/SKU_17885907372900/1-?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+
 <img width="1432" height="821" alt="仪表盘1-全国库存总舱" src="https://github.com/user-attachments/assets/a9b2dfe7-1d0d-4eb2-93ac-ec36a1046c50" />
-重点一览：
-1.全国大仓库存周转效率&平均库龄；
-2.右上快速看出不同畅销程度&健康度SKU占比，对大仓畅销、滞销、正常SKU健康度情况一眼了解；
-2.了解当下核心项目进展。
+>  **重点一览**
+- 1.全国大仓库存周转效率&平均库龄；
+- 2.右上快速看出不同畅销程度&健康度SKU占比，对大仓畅销、滞销、正常SKU健康度情况一眼了解；
+- 3.了解当下核心项目进展。
 
 <img width="1431" height="829" alt="仪表盘2-SKU健康度 补货优先级 补货建议" src="https://github.com/user-attachments/assets/46120bbb-2c9f-497f-a556-3cd7e9a9807d" />
 重点一览：
