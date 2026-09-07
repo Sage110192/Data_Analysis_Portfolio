@@ -1,4 +1,0 @@
-project_id,project_name,period_id,period_name,start_date,deadline,project_level,is_finish,end_date
-1001,26YearDouble11Promotion,1,需求预测,2026/9/1,2026/9/15,5,1,2026/9/15
-1001,26YearDouble11Promotion,2,生产计划,2026/9/16,2026/9/20,5,1,2026/9/20
-1001,26YearDouble11Promotion,3,采购下单,2026/9/21,2026/9/22,5,1,2026/9/22
