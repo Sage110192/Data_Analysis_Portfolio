@@ -1,0 +1,13 @@
+### 环境 & 工具
+- Python >=3.9
+- SQL：MySQL / Hive
+- BI工具：Tableau Public
+### 环境 & 工具
+### Python依赖
+### 环境 & 工具
+- Python >=3.9
+- SQL：MySQL / Hive
+- BI工具：Tableau Public
+
+### Python依赖
+pandas、numpy、faker、openpyxl
