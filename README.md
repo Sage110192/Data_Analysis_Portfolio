@@ -15,7 +15,6 @@
 |:---|:---|
 | 语言 | HiveSQL（复杂查询；窗口函数）, Python（Pandas, NumPy）|
 | 可视化 | Tableau, Matplotlib, Plotly |
-| 数据库 | MySQL, PostgreSQL, HiveSQL |
 | 其他 |  Excel（建模） |
 
 ---
