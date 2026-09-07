@@ -35,7 +35,7 @@
 **成果**：预估库存周转效率将提升 *%，滞销品库存成本将节省 *%（模拟数据）
 
 
-🔗 [查看项目](.Supply_Chain_Analysis) 
+🔗 [查看项目](Data_Analysis_Portfolio/Supply_Chain_Analysis) 
 📊 [在线看板](https://public.tableau.com/views/SKU_17885907372900/1-?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img width="1432" height="821" alt="仪表盘1-全国库存总舱" src="https://github.com/user-attachments/assets/68f52f9a-1e02-4ab9-a921-3ebce9d7e2b3" />
