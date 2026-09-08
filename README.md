@@ -4,7 +4,7 @@
 > 数据分析 | 商业洞察 | 全链路效能优化  
 > 运动探索爱好者 | 钟爱自然徒步
 
-一名有 5 年经验的商业分析师，擅长从复杂业务场景中提炼洞察，用数据驱动决策。  
+一名有 6 年经验的商业分析师，擅长从复杂业务场景中提炼洞察，用数据驱动决策。  
 目前正在寻找一个能实际给业务带来增长与降本增效的商业数据分析师角色。
 
 ---
@@ -36,7 +36,7 @@
 
 
 🔗 [查看项目](./Supply_Chain_Analysis/) 
-📊 [在线看板](https://public.tableau.com/views/SKU_17885907372900/1-?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+📊 [在线看板](https://public.tableau.com/views/SKU_17887697909690/1-?:language=zh-CN&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img width="1432" height="821" alt="仪表盘1-全国库存总舱" src="https://github.com/user-attachments/assets/68f52f9a-1e02-4ab9-a921-3ebce9d7e2b3" />
 
